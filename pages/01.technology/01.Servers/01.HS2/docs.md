@@ -34,4 +34,4 @@ title: Windows Server 2012R2
 		- vuze
 		- 7zip
 		- chocolately [Future]
-		- Java 8
+		- Java 8 ???
